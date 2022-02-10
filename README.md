@@ -12,10 +12,7 @@ $ pip3 install flask && python3 server.py
 
 - The post is created in HTML5 and imported CSS file
 
-<header>
-
-<main>
-
-<footer>
-
-<content>
+-header
+-main
+-footer
+-content
