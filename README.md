@@ -1,4 +1,4 @@
-# ![Instagram Post - Article about climate change ] 
+# ![Instagram Post] 
 
 Here you may find a short article post in Instagram about climate change.
 
