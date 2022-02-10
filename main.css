@@ -4,20 +4,20 @@ body {
 }
 .container-fluid {
     background-color: white;
-    width: 51%;
+    width: 600px;
     height: auto;
     margin: auto;
 }
 .post image {
     display: flex;
-    padding: 30%;
+    width: 600px;
+    height: auto;
 }
 .header {
     display: inline-block;
     display: flex;
     width: 100%;
     margin: auto;
-    padding-right: 80px;
 }
 .logo {
     width: 800px;
@@ -26,37 +26,32 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.options {
-    display: inline-block;
-    padding-top: 1%;
-    width: 8%;
-    height: auto;
-}
 .name {
-    display: flexbox;
-    padding: 0;
-    margin:0;
+    display: inline-block;
+}
+.options {
+    display: flex;
+    padding-right: 30px;
+    padding-left: 20px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 }
 .icons {
-    display:inline-block;
-    width: 10000px;
-    height: auto;
-    margin-right:20px;
+    padding-left: 20px;
+    width: auto;
 }
 .bookmark {
-    display:inline-block;
-    width: 20px;
-    height: auto;
-    margin-right:20px;
+    float:right;
+    padding-right:40px;
 }
-.icon img {
-    display:inline-block;
-    width: 20%;
-    height: auto;
-}
+
 .footer  {
+    display: inline-block;
     width: 100%;
     margin: 5px;
+    display:inline-block;
+    padding-left:10px;
+    padding-top:10px;
 }
 .footer p {
     padding-top: 30%;
@@ -65,4 +60,7 @@ body {
     width: 3%;
     height: auto;
     display: flex;
+}
+.comment {
+    padding:20px;
 }
